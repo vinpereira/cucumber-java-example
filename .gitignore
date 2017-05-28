@@ -1,0 +1,12 @@
+# Ignore IntelliJ IDEA folder
+.idea/
+
+# Ignore Gradle folder and files
+.gradle/
+gradle/
+
+# Ignore build folder
+build/
+
+# Ignore target folder (if use Maven)
+target/
